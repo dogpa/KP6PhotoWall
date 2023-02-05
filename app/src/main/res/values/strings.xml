@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KP6PhotoWall</string>
+    <string name="title_activity_photo_detail_view">PhotoDetailView</string>
+</resources>
